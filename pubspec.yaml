@@ -1,0 +1,11 @@
+name: CardBoom
+version: 1.0.0
+description: Playing card autonomous simulator.
+author: Matěj Kripner
+homepage: https://google.com/+MatejKripner
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
